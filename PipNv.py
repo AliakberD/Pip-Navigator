@@ -4,7 +4,8 @@ st.set_page_config(page_title="Pip Navigator", page_icon="📊", layout="centere
 st.title("📊 Pip Navigator")
 
 # Add logo
-st.image("https://i.ibb.co/DKSzM3f/pipnav-logo.webp", width=120)
+st.image("https://i.ibb.co/h1DLPgfJ/Untitled-2.webp", width=120)
+
 
 st.markdown("Select the instrument type to calculate pip risk, gain, R:R ratio, and dollar risk.")
 
